@@ -1,2 +1,2 @@
 # NEXUS-COMPRESSOR
-A lightweight Windows video compressor designed for simplicity and quality. Puedes
+A lightweight Windows video compressor designed for simplicity and quality. 
